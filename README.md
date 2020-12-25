@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on Netease YouDao
 - 🌱 I’m currently learning Computer Science at Peking University
 - 📫 How to reach me: [Email](mailto:icanghai@foxmail.com)
+- 🔗 My resume: [Hacknical](https://hacknical.com/IShinji/resume)
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying in Northeastern University (Seattle) looking for a internship job
 - 📫 How to reach me: [Email](mailto:icanghai@foxmail.com)
-- 🔗 My resume: [Hacknical](https://hacknical.com/IShinji/resume)
+- 🔗 My LinkedIn: [LinkedIn](linkedin.com/in/wiselyzou)
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

@@ -1,6 +1,6 @@
 ### Hey, I'm Wisely 👋
 
-<img src="https://streak-stats.demolab.com?user=IShinji" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=IShinji)](https://git.io/streak-stats)
 
   - 🧠 Recent grad @ Northeastern University Seattle; focused on React / TypeScript / Next.js + Node/Python
   - 📚 Daily LeetCode + frontend system design reviews (performance, observability, usability)

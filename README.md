@@ -55,11 +55,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IShinji&ts Profile Details" />
-</p>
+ <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IShinji&theme=github" alt="IShinji's Profile Details" />
+  </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IShinji&theme=githuidth="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IShinji&theme=github" alt="IShinji's Top Languages" width="49%" />
-</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IShinji&theme=github" alt="IShinji's Stats" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IShinji&theme=github" alt="IShinji's Top Languages" width="49%" />
+  </p>

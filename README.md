@@ -2,18 +2,19 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=539bf5&center=true&vCenter=true&width=435&lines=Full-Stack+%26+Frontend+Engineer;Open+Source+Creator;Make+world+better." alt="Typing SVG" />
-  <br/>
-  <br/>
-  <img src="https://count.getloli.com/get/@IShinji?theme=moebooru" alt="Moe Counter" />
 </div>
 
 ## 👨🏻‍💻 About Me
 
 * 💻 **Full-Stack & Frontend Software Engineer** with 12+ years of professional experience.
-* 🛠️ Creator and maintainer of open-source projects like **SuperCard**, **RustPanel**, and **Nerv**.
+* 🛠️ Independent creator of **SuperCard**, and maintainer of open-source projects like **RustPanel** and **Nerv**.
 * 📚 Daily LeetCode + system design reviews (performance, observability, usability).
 * 🤝 Open to collaborate on AI productivity tools, data viz, and frontend infra.
 * 📫 Reach me at: [icanghai@foxmail.com](mailto:icanghai@foxmail.com) | [Blog](https://blog.icanghai.com)
+
+<p align="left">
+  <img src="https://count.getloli.com/get/@IShinji?theme=moebooru" alt="Moe Counter" />
+</p>
 
 ---
 

@@ -50,5 +50,5 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IShinji&theme=github_dark_dimmed" alt="IShinji's Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=IShinji&theme=github_dark_dimmed" alt="IShinji's Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IShinji&theme=github_dark_dimmed" alt="IShinji's Top Languages" width="49%" />
 </p>

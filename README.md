@@ -38,17 +38,17 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&styHub Actions" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-th/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-ba
-  <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" a
-  <img src="https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge"
-  <img src="https://img.shields.io/badge/-gRPC-244C5A?logo=grpc&logoColor=white&style=for-the-badge" alt
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="Nginx" />
+  <img src="https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" alt="Gradle" />
+  <img src="https://img.shields.io/badge/-gRPC-244C5A?logo=grpc&logoColor=white&style=for-the-badge" alt="gRPC" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge" alt="AWS" />
-  <img src="https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white&style=for-the-badge" alt
+  <img src="https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white&style=for-the-badge" alt="pnpm" />
   <img src="https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=for-the-badge" alt="macOS" />
-  <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badg
-  <img src="https://img.shields.io/badge/-iOS-000000?logo=ios&logoColor=white&style=for-the-badge" alt="
+  <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android" />
+  <img src="https://img.shields.io/badge/-iOS-000000?logo=ios&logoColor=white&style=for-the-badge" alt="iOS" />
 </p>
 
 ---

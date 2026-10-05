@@ -3,13 +3,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=539bf5&center=true&vCenter=true&width=435&lines=Full-Stack+%26+Frontend+Engineer;Open+Source+Creator;Make+world+better." alt="Typing SVG" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=IShinji&label=Profile%20Views&color=539bf5&style=flat-square" alt="Profile Views" />
+  <br/>
+  <img src="https://count.getloli.com/get/@IShinji?theme=moebooru" alt="Moe Counter" />
 </div>
 
 ## 👨🏻‍💻 About Me
 
 * 💻 **Full-Stack & Frontend Software Engineer** with 12+ years of professional experience.
-* 🏢 Currently building internal administrative dashboards @ **Expedia**.
 * 🛠️ Creator and maintainer of open-source projects like **SuperCard**, **RustPanel**, and **Nerv**.
 * 📚 Daily LeetCode + system design reviews (performance, observability, usability).
 * 🤝 Open to collaborate on AI productivity tools, data viz, and frontend infra.
@@ -45,10 +45,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IShinji&theme=github_dark_dimmed" alt="IShinji's Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IShinji&theme=github" alt="IShinji's Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IShinji&theme=github_dark_dimmed" alt="IShinji's Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IShinji&theme=github_dark_dimmed" alt="IShinji's Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IShinji&theme=github" alt="IShinji's Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IShinji&theme=github" alt="IShinji's Top Languages" width="49%" />
 </p>

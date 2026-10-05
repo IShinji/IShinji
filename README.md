@@ -1,7 +1,9 @@
 # 👋 Hey, I'm Wisely (Hongquan Zou) 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full-Stack+%26+Frontend+Engineer;Open+Source+Creator;Make+world+better." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=539bf5&center=true&vCenter=true&width=435&lines=Full-Stack+%26+Frontend+Engineer;Open+Source+Creator;Make+world+better." alt="Typing SVG" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=IShinji&label=Profile%20Views&color=539bf5&style=flat-square" alt="Profile Views" />
 </div>
 
 ## 👨🏻‍💻 About Me
@@ -43,6 +45,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IShinji&show_icons=true&theme=transparent&hide_border=true&title_color=F7DF1E&icon_color=F7DF1E" alt="Wisely's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShinji&layout=compact&theme=transparent&hide_border=true&title_color=F7DF1E" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IShinji&theme=github_dark_dimmed" alt="IShinji's Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IShinji&theme=github_dark_dimmed" alt="IShinji's Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=IShinji&theme=github_dark_dimmed" alt="IShinji's Top Languages" width="49%" />
 </p>
